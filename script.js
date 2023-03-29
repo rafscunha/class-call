@@ -1,4 +1,3 @@
-
 let UUID = null
 let qrCodeSection = document.getElementById("section")
 let listAlunos = document.getElementById("table-students")
