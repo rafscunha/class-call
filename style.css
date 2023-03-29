@@ -14,3 +14,24 @@
 #section a{
     margin-top: 20px;
 }
+
+#table{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.table-name{
+    width: 150px;
+}
+.table-ra{
+    width: 80px;
+}
+.table-hora{
+    width: 80px;
+}
+.table-title{
+    font-weight: 700;
+    border-bottom: 1px solid black;
+}
